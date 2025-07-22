@@ -1,6 +1,7 @@
 # Personalized Travel Planning System
+<img width="586" height="499" alt="image" src="https://github.com/user-attachments/assets/493973b2-544e-4bee-b61d-1e54927b0f74" />
 
-[![TAI2 0](https://github.com/user-attachments/assets/3de75110-da48-42e3-9fe5-b42b1e525b08)](https://github.com/user-attachments/assets/3de75110-da48-42e3-9fe5-b42b1e525b08)
+
 
 ## Agencies Involved
 - **Travel Planner**
